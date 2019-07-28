@@ -4,6 +4,7 @@ association_tutorial
 ## What is this?
 
 [RaiseTech](https://raise-tech.net/)のAWSフルコース第4回講座で紹介された[Qiita記事](https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1)（Twitterクローン）を元に、EC2とRDSを使用してデプロイしたものです。AP、WEBはunicorn＋nginxを使用しています。
+- 本課題に関して詳細な手順書等のドキュメントはスクールより提供されておらず、主に検索サイトでヒットする導入記事を元に内容を精査し作成しています。
 
 
 ## 機能
@@ -37,7 +38,8 @@ $ git clone https://github.com/miima17/association_tutorial.git
 
 ## 参考サイト
 
-[【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】](https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1)
-[AmazonLinuxにNginxとRailsをインストールして80番ポートからrailsに繋げる](https://qiita.com/kyo_nanba/items/ebe1ca322c2bb1406be8)
+- [【初心者向け】丁寧すぎるRails『アソシエーション』チュートリアル【幾ら何でも】【完璧にわかる】](https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1)
+
+- [AmazonLinuxにNginxとRailsをインストールして80番ポートからrailsに繋げる](https://qiita.com/kyo_nanba/items/ebe1ca322c2bb1406be8)
 
 
