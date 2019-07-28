@@ -67,3 +67,6 @@ yarn-debug.log*
 
 # Ignore original shellscript
 /*.sh
+
+# Ignore database.yml
+/config/database.yml
