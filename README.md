@@ -41,9 +41,3 @@ $ git clone https://github.com/miima17/association_tutorial.git
 [AmazonLinuxにNginxとRailsをインストールして80番ポートからrailsに繋げる](https://qiita.com/kyo_nanba/items/ebe1ca322c2bb1406be8)
 
 
-
-## 作者
-
-[@miima_17](https://twitter.com/miima_17)
-
-
