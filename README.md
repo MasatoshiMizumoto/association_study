@@ -3,8 +3,8 @@ association_tutorial
 
 ## What is this?
 
-[RaiseTech](https://raise-tech.net/)のAWSフルコース第4回講座で紹介された[Qiita記事](https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1)（Twitterクローン）を元に、EC2とRDSを使用してデプロイしたものです。AP、WEBはunicorn＋nginxを使用しています。
-- 本課題に関して詳細な手順書等のドキュメントはスクールより提供されておらず、主に検索サイトでヒットする導入記事を元に内容を精査し作成しています。
+エンジニアリングスクール[RaiseTech](https://raise-tech.net/)のAWSフルコース第4回講座で紹介された[Qiita記事](https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1)（Twitterクローン）を参考に、デプロイ先をAmazon Web Service上で構築したものです。加えてAPサーバ、WEBサーバはunicorn＋nginxを使用しています。
+- 本課題に関してスクールより提供されたものは前述の記事情報のみであり、記載の無い手順は主に検索サイトで入手可能な情報を元に内容を精査し使用しています。
 
 
 ## 機能
@@ -43,3 +43,6 @@ $ git clone https://github.com/miima17/association_tutorial.git
 - [AmazonLinuxにNginxとRailsをインストールして80番ポートからrailsに繋げる](https://qiita.com/kyo_nanba/items/ebe1ca322c2bb1406be8)
 
 
+## 作成者
+
+[@miima_17](https://twitter.com/miima_17)
