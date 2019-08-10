@@ -23,7 +23,7 @@ association_tutorial
 - Rails 5.2.3
 - nginx version: nginx/1.12.2
 
-## 導入・導入時注意事項
+## 導入
 
 ```
 $ git clone https://github.com/miima17/association_tutorial.git
