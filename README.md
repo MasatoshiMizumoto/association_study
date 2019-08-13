@@ -1,4 +1,4 @@
-association_tutorial
+association_study
 ====
 
 ## What is this?
