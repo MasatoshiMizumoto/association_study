@@ -45,4 +45,4 @@ $ git clone https://github.com/miima17/association_tutorial.git
 
 ## 作成者
 
-[@miima_17](https://twitter.com/miima_17)
+[MasatoshiMizumoto](https://github.com/MasatoshiMizumoto)
